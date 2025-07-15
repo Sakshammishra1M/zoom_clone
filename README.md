@@ -17,8 +17,4 @@ we are going to do the fronted and the backened part in this repository
    - **Performance-optimized** order matching algorithm  
 2. **Secure Microservices Architecture**  
    - Containerized services with **Docker** for scalability  
-   - **REST API design** with rate limiting (1000+ RPM)  
-3. **Automated Deployment**  
-   - CI/CD pipeline via **Jenkins** on **AWS**  
-   - Zero-downtime deployments   
-## 🚀 Deployment (Docker + AWS)  
+   - **REST API design** with rate limiting
